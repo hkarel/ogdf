@@ -9,6 +9,7 @@
 #define CoinFinite_H
 
 #include <limits>
+#include <cfloat>
 
 //=============================================================================
 // Smallest positive double value and Plus infinity (double and int)
